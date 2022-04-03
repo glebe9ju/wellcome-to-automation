@@ -1,0 +1,73 @@
+Here is the Java Practical Test For Automation.
+It is very simple.
+Rules:
+1. Please do not use Google
+2. Please do not take help from your group.
+3. Be honest and give the score yourself.
+
+Requirement:
+1. Create a new project with the name "welcome-to-automation"
+2. Create a package with the name "automationtest"
+3. Finish the following test within this package
+
+Question:1 - Marks:3
+1.1 Create a class with the name "MyName_Q1"
+1.2 Declare the main method and print your name.
+OutPut:
+YourName
+
+Question:2 - Marks:5
+2.1 Create the class with the name "Variable_Q2"
+2.2 Declare two global variables with the name "id" and "name" with int and string type.
+2.3 Create a parameterized Constructor That assigns the value of the above two variables.
+2.4 Create a method with no return type no parameter with name "display" and write a SOUT statement to print the value of the above variables.
+2.5 Create the main method
+2.6 Create the Object with name obj1 and pass the value '101', 'YourName'
+2.7 Call the 'display method into the main method with obj1.
+2.8 Create the second Object with name obj2 and pass the value '102', 'Prime'
+2.9 Call the 'display method into the main method with obj2.
+OutPut
+101 - YourName
+102 - Prime
+
+Question:3 - Marks:4
+3.1 Create the class with the name "IfThenElse_Q3"
+3.2 Create a method with the name "isTeen" with boolean return type and one parameter with type int and name "age".
+3.3 Write the logic into the "isTeen" method. if age is less than or equal to 18 then return 'true'
+    else return 'false'.
+3.4 Create the main method
+3.5 Create the Object and call the 'isTeen' method inside the sout statement.
+
+OutPut
+15  - true
+25  - false
+
+Question:4 - Marks:4
+4.1 Create the class with the name "ForLoop_Q4"
+4.2 Create a method with the name "printMyName" with no return type and two parameters with the type string and name "name" and int type name 'howManyTime'.
+4.3 Write the for loop into the "printMyName '' method which prints your name depending upon howManyTime's value.
+4.4	Create the main method
+4.5 Create the Object and call the 'printMyName' method into the main method.
+
+OutPut
+howManyTime = 10 it will print your name 10 times
+howManyTime = 15 it will print your name 15 times
+
+Question:5 - Marks:4
+5.1 Create the class with the name "ArrayList_Q5"
+5.2	Create the main method
+5.3 Declare the string type ArrayList and add the values "Scrum", "Java", "Jira", "Selenium", "Cucumber", "Postman", “Rest Assured”
+5.4 Print the list using a forEach loop.
+
+OutPut
+Scrum
+Java
+Jira
+Selenium
+Cucumber
+Postman
+Rest Assured
+
+Happy Chaitra Navratri and All the Best!!
+
+Happy Learning and Keep Practising!!
